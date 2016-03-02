@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
 # always install
+echo 'GeoIP DB buildpack'
 exit 0
